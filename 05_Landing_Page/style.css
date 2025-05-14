@@ -1,0 +1,26 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.landing {
+  background: url('pexels-joyston-judah-331625-933054.jpg') no-repeat center center/cover;
+  height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.content {
+  background-color: rgba(0, 0, 0, 0.26);
+  padding: 20px;
+  border-radius: 10px;
+}
+.cta-button {
+  background: #04AA6D;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
